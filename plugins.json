@@ -4,7 +4,8 @@
     "hash": "ca9ddd3a14a1b6033eb6a59da6465f5f72d47af351f6ce0a13d3ee40fb5b38ea",
     "size": 2221,
     "plugins": [
-      "ca.arnah.runelite.HijackCustomizePlugin"
+      "ca.arnah.runelite.HijackCustomizePlugin",
+      "net.runelite.client.OneClickCombosPlugin"
     ],
     "displayName": "HiJack Customize PluginHub",
     "description": "",
